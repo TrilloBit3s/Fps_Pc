@@ -1,11 +1,6 @@
 # FPS pc
 
-> Status: Developing ⚠️
-
 ### Unity used 2019.2.18f1
-
-
-## https://syr.us/nVv
 
 ## This project exists only for study, it can be improved and it may become a good thing in the future.
 
